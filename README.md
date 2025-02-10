@@ -8,7 +8,7 @@
 <div align="center">
 </b> 
 
-[![Profile Views](https://komarev.com/ghpvc/?username=OLebese95&color=blue)]
+![Profile Views](https://komarev.com/ghpvc/?username=OLebese95&color=blue)
 <br/>
 
 </div>
