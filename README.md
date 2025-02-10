@@ -1,8 +1,10 @@
-![Ofentse Image](/images/Profile.jpg)
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Hello,+I'm+Ofentse+Lebese!;A+Passionate+Full-Stack+Developer!;I+Love+JavaScript,+AlpineJS,+and+Node.js!">
 </h3>
+
+![Ofentse Image](/images/Profile.jpg)
+![Profile Views](https://komarev.com/ghpvc/?username=OLebese95&color=blue)
 
 </b> <br/>
 
@@ -23,9 +25,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OLebese95&theme=vue&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=OLebese95&color=blue)
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 
 <div align="center">
   <!-- Web Development Badges -->
