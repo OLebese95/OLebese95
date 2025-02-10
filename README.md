@@ -85,8 +85,10 @@
 <div align="center">
 
 <br>  
-### Come on, don't get bored! This is the end of my README... but not without a laugh! 🎭  
-<br>  
+<h2 style="font-size: 28px; font-weight: bold; background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent;">
+    Come on, don't get bored! This is the end of my README... but not without a laugh! 🎭
+</h2>  
+<br> 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
