@@ -76,7 +76,9 @@
     Come on, don't get bored! This is the end of my README... but not without a laugh! 
 </h2>  
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="margin-bottom: 20px;">
+<div style="border: 2px solid #e52e71; padding: 15px; border-radius: 10px; display: inline-block; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);">
+    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
+</div>
 
 [![Hire Me](https://img.shields.io/badge/-Hire%20Me-green?style=for-the-badge)](mailto:fentselebese@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://your-portfolio-link.com)
