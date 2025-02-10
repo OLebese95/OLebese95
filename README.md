@@ -12,7 +12,7 @@
 <div> -->
 </b> <br/>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OLebese95&theme=prussian&hide_border=true&card_width=496&stroke=FFD700&background=2A2B2E" alt="GitHub Streak" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OLebese95&theme=vue&hide_border=true&card_width=496" alt="GitHub Streak" /> <br/><br/>
   </p>
 </div>
 
