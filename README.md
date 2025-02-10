@@ -5,6 +5,7 @@
 </h3>
 
 </b> <br/>
+
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=OLebese95&theme=vue&hide_border=true&card_width=496" alt="GitHub Streak" /> <br/><br/>
   </p>
@@ -26,8 +27,6 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 
-
-
 <div align="center">
   <!-- Web Development Badges -->
 <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" style="margin-right: 10px; height: 20px;"></a>
@@ -46,11 +45,16 @@
 <!-- Containing -->
 
 <!-- Mobile Frameworks -->
+
 <a href="#"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" style="margin-right: 10px; height: 20px;"></a>
+
 <!-- Database Badges -->
+
 <a href="#"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin-right: 10px; height: 20px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="margin-right: 10px; height: 20px;"></a>
+
 <!-- Data Science & Machine Learning Badges -->
+
 <a href="#"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" style="margin-right: 10px; height: 20px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="margin-right: 10px; height: 20px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" style="margin-right: 10px; height: 20px;"></a>
@@ -58,18 +62,21 @@
 <a href="#"><img src="https://img.shields.io/badge/scipy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy" style="margin-right: 10px; height: 20px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" style="margin-right: 10px; height: 20px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" style="margin-right: 10px; height: 20px;"></a>
+
 <!-- Design & UI/UX Badges -->
+
 <a href="#"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" style="margin-right: 10px; height: 20px;"></a>
+
 <!-- Version Control Badges -->
+
 <a href="#"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-right: 10px; height: 20px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin-right: 10px; height: 20px;"></a>
+
 <!-- Miscellaneous Badges -->
+
 <a href="#"><img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" style="margin-right: 10px; height: 20px;"></a>
 
 </div>
-
-[![Hire Me](https://img.shields.io/badge/-Hire%20Me-green?style=for-the-badge)](mailto:fentselebese@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://your-portfolio-link.com)
 
 ## ![]()
 
@@ -77,4 +84,6 @@
   <a href="https://wa.me/27716472363" target="_blank">
     <img src="/images/whatsapp.png" alt="WhatsApp" width="40px">
   <a href="https://www.linkedin.com/in/fentselebese-profile"><img src="/images/linkedin.png" alt="LinkedIn" width="40px"></a>
+  [![Hire Me](https://img.shields.io/badge/-Hire%20Me-green?style=for-the-badge)](mailto:fentselebese@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://your-portfolio-link.com)
 </div>
