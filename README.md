@@ -5,12 +5,13 @@
 
 ![Ofentse Image](/images/Profile.jpg)
 
-
+<div align="center">
 </b> 
 
-![Profile Views](https://komarev.com/ghpvc/?username=OLebese95&color=blue)
+[![Profile Views](https://komarev.com/ghpvc/?username=OLebese95&color=blue)]
 <br/>
 
+</div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OLebese95&layout=compact&theme=vue&hide_border=true" alt="Most Used Languages"/>
 </p>
@@ -22,7 +23,6 @@
 
 <div align="center">
   <!-- Web Development Badges -->
-<a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" style="margin-right: 10px; height: 20px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin-right: 10px; height: 20px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin-right: 10px; height: 20px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="margin-right: 10px; height: 20px;"></a>
