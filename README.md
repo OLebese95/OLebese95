@@ -23,7 +23,6 @@
 </p>
 
 
-
 <div align="center">
   <!-- Web Development Badges -->
 <a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin-right: 10px; height: 20px;"></a>
@@ -85,7 +84,19 @@
 
 <div align="center">
 
-[![Hire Me](https://img.shields.io/badge/-Hire%20Me-green?style=for-the-badge)](mailto:fentselebese@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://your-portfolio-link.com)
+<br>  
+### Come on, don't get bored! This is the end of my README... but not without a laugh! 🎭  
+<br>  
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<br>  
+
+[![Hire Me](https://img.shields.io/badge/-Hire%20Me-green?style=for-the-badge)](mailto:fentselebese@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://your-portfolio-link.com)  
+
+<br>  
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 
 </div>
