@@ -95,8 +95,6 @@
 [![Hire Me](https://img.shields.io/badge/-Hire%20Me-green?style=for-the-badge)](mailto:fentselebese@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://your-portfolio-link.com)  
 
-<br>  
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+<br> 
 
 </div>
