@@ -3,7 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Hello,+I'm+Ofentse+Lebese!;A+Passionate+Full-Stack+Developer!;I+Love+JavaScript,+AlpineJS,+and+Node.js!">
 </h3>
 
-![Ofentse Image](/images/Profile.jpg)
+<div align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</div>
 
 <div align="center">
 </b> 
