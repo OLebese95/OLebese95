@@ -78,12 +78,11 @@
 </h2>  
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<br>
+</br>
 
 [![Hire Me](https://img.shields.io/badge/-Hire%20Me-green?style=for-the-badge)](mailto:fentselebese@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://your-portfolio-link.com)
 
-<br>
 
 <div align="center">
   <a href="https://wa.me/27716472363" target="_blank">
