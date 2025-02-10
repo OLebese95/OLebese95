@@ -1,20 +1,32 @@
 ![Ofentse Image](/images/Profile.jpg)
 
-<!-- <div align="center">
-  <h4> Pinned</h4>
-  <a href="https://mofokengtt21.github.io/pizza-cart-with-api/"><img src="/images/pizza-website.png"  width="170"></a>&nbsp &nbsp
-  <a href="https://mofokengtt21.github.io/react-cms-tailwind-project/"><img src="https://github.com/MofokengTT21/react-cms-tailwind-project/blob/main/screenshot.png?raw=true"  width="105.2"></a>
-  <a href="https://github.com/MofokengTT21/driver-behavior"><img src="https://github.com/MofokengTT21/driver-behavior/blob/main/screenshot.png?raw=true"  width="365"></a><br>
-  <a href="https://github.com/MofokengTT21/livewire-chat"><img src="https://github.com/MofokengTT21/livewire-chat/blob/main/screenshots/phone.png?raw=true"  width="100"></a>
-  <a href="https://github.com/MofokengTT21/livewire-chat"><img src="https://github.com/MofokengTT21/livewire-chat/blob/main/screenshots/laptop.png?raw=true"  width="365"></a><br><br>
-  <a href="https://github.com/MofokengTT21?tab=repositories"><img src="/images/view-more.png" width="90"></a>
-</div>
-<div> -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Hello,+I'm+Ofentse+Lebese!;A+Passionate+Full-Stack+Developer!;I+Love+JavaScript,+AlpineJS,+and+Node.js!">
+</h3>
+
 </b> <br/>
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=OLebese95&theme=vue&hide_border=true&card_width=496" alt="GitHub Streak" /> <br/><br/>
   </p>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OLebese95&show_icons=true&theme=vue&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OLebese95&layout=compact&theme=vue&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OLebese95&theme=vue&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=OLebese95&color=blue)
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+
+
 
 <div align="center">
   <!-- Web Development Badges -->
@@ -55,6 +67,9 @@
 <a href="#"><img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" style="margin-right: 10px; height: 20px;"></a>
 
 </div>
+
+[![Hire Me](https://img.shields.io/badge/-Hire%20Me-green?style=for-the-badge)](mailto:fentselebese@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://your-portfolio-link.com)
 
 ## ![]()
 
