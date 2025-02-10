@@ -1,6 +1,6 @@
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Hello,+I'm+Ofentse+Lebese!;A+Passionate+Full-Stack+Developer!;I+Love+JavaScript,+AlpineJS,+and+Node.js!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Hello,+I'm+Ofentse+Lebese!">
 </h3>
 
 <div align="center">
