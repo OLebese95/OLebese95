@@ -7,8 +7,10 @@
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </div>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
+<div align="center">
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+</div>
 
 </div>
 <p align="center">
