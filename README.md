@@ -75,11 +75,7 @@
 
 ## ![]()
 
-<div align="center">
-  <a href="https://wa.me/27716472363" target="_blank">
-    <img src="/images/whatsapp.png" alt="WhatsApp" width="40px">
-  <a href="https://www.linkedin.com/in/fentselebese-profile"><img src="/images/linkedin.png" alt="LinkedIn" width="40px"></a> 
-</div>
+
 
 
 <div align="center">
@@ -92,11 +88,18 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<br>  
+</br>  
 
+<div align="center">
+  <a href="https://wa.me/27716472363" target="_blank">
+    <img src="/images/whatsapp.png" alt="WhatsApp" width="40px">
+  <a href="https://www.linkedin.com/in/fentselebese-profile"><img src="/images/linkedin.png" alt="LinkedIn" width="40px"></a> 
+</div>
+
+<br>
 [![Hire Me](https://img.shields.io/badge/-Hire%20Me-green?style=for-the-badge)](mailto:fentselebese@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://your-portfolio-link.com)  
 
-<br> 
+</br> 
 
 </div>
