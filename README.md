@@ -13,6 +13,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=OLebese95&color=blue)
 <br/>
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+
+
 </div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OLebese95&layout=compact&theme=vue&hide_border=true" alt="Most Used Languages"/>
