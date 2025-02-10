@@ -21,11 +21,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OLebese95&layout=compact&theme=vue&hide_border=true" alt="Most Used Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OLebese95&theme=vue&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
-
 <div align="center">
   <!-- Web Development Badges -->
 <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" style="margin-right: 10px; height: 20px;"></a>
@@ -82,7 +77,13 @@
 <div align="center">
   <a href="https://wa.me/27716472363" target="_blank">
     <img src="/images/whatsapp.png" alt="WhatsApp" width="40px">
-  <a href="https://www.linkedin.com/in/fentselebese-profile"><img src="/images/linkedin.png" alt="LinkedIn" width="40px"></a>
-  [![Hire Me](https://img.shields.io/badge/-Hire%20Me-green?style=for-the-badge)](mailto:fentselebese@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://your-portfolio-link.com)
+  <a href="https://www.linkedin.com/in/fentselebese-profile"><img src="/images/linkedin.png" alt="LinkedIn" width="40px"></a> 
+</div>
+
+
+<div align="center">
+
+[![Hire Me](https://img.shields.io/badge/-Hire%20Me-green?style=for-the-badge)](mailto:fentselebese@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://your-portfolio-link.com)
+
 </div>
