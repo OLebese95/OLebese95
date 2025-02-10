@@ -75,7 +75,8 @@
 <h2 style="font-size: 28px; font-weight: bold; background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent;">
     Come on, don't get bored! This is the end of my README... but not without a laugh! 
 </h2>  
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="margin-bottom: 20px;">
 
 [![Hire Me](https://img.shields.io/badge/-Hire%20Me-green?style=for-the-badge)](mailto:fentselebese@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://your-portfolio-link.com)
@@ -84,7 +85,8 @@
 <div align="center">
   <a href="https://wa.me/27716472363" target="_blank">
     <img src="/images/whatsapp.png" alt="WhatsApp" width="40px">
-  <a href="https://www.linkedin.com/in/fentselebese-profile"><img src="/images/linkedin.png" alt="LinkedIn" width="40px"></a> 
-</div>
-
+  </a>
+  <a href="https://www.linkedin.com/in/fentselebese-profile">
+    <img src="/images/linkedin.png" alt="LinkedIn" width="40px">
+  </a> 
 </div>
