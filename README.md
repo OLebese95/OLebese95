@@ -1,4 +1,3 @@
-
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Hello,+I'm+Ofentse+Lebese!">
 </h3>
@@ -6,7 +5,6 @@
 <div align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </div>
-
 
 <div align="center">
 
@@ -21,7 +19,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OLebese95&show_icons=true&theme=vue&hide_border=true" alt="GitHub Stats"/>
 </p>
-
 
 <div align="center">
   <!-- Web Development Badges -->
@@ -75,31 +72,27 @@
 
 ## ![]()
 
-
-
-
 <div align="center">
 
 <br>  
 <h2 style="font-size: 28px; font-weight: bold; background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent;">
     Come on, don't get bored! This is the end of my README... but not without a laugh! 🎭
 </h2>  
-<br> 
+<br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-</br>  
+<br>
+
+[![Hire Me](https://img.shields.io/badge/-Hire%20Me-green?style=for-the-badge)](mailto:fentselebese@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://your-portfolio-link.com)
+
+<br>
 
 <div align="center">
   <a href="https://wa.me/27716472363" target="_blank">
     <img src="/images/whatsapp.png" alt="WhatsApp" width="40px">
   <a href="https://www.linkedin.com/in/fentselebese-profile"><img src="/images/linkedin.png" alt="LinkedIn" width="40px"></a> 
 </div>
-
-<br>
-[![Hire Me](https://img.shields.io/badge/-Hire%20Me-green?style=for-the-badge)](mailto:fentselebese@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://your-portfolio-link.com)  
-
-</br> 
 
 </div>
