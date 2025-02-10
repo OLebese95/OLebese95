@@ -83,7 +83,7 @@
 [![Hire Me](https://img.shields.io/badge/-Hire%20Me-green?style=for-the-badge)](mailto:fentselebese@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://your-portfolio-link.com)
 
-
+</div>
 <div align="center">
   <a href="https://wa.me/27716472363" target="_blank">
     <img src="/images/whatsapp.png" alt="WhatsApp" width="40px">
