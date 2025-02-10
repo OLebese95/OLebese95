@@ -1,6 +1,6 @@
 ![Ofentse Image](/images/Profile.jpg)
 
-<div align="center">
+<!-- <div align="center">
   <h4> Pinned</h4>
   <a href="https://mofokengtt21.github.io/pizza-cart-with-api/"><img src="/images/pizza-website.png"  width="170"></a>&nbsp &nbsp
   <a href="https://mofokengtt21.github.io/react-cms-tailwind-project/"><img src="https://github.com/MofokengTT21/react-cms-tailwind-project/blob/main/screenshot.png?raw=true"  width="105.2"></a>
@@ -14,7 +14,7 @@
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=MofokengTT21&theme=vue&hide_border=true&card_width=496" alt="GitHub Streak" alt="GitHub Stats" /> <br/><br/>
   </p>
-</div>
+</div> -->
 
 <div align="center">
   <!-- Web Development Badges -->
@@ -75,10 +75,10 @@
 
 </div>
 
-![]()
----
+## ![]()
 
 <div align="center">
-  <a href="https://wa.me/qr/OI26QJNBJSEYF1"><img src="/images/whatsapp.png" alt="WhatsApp" width="40px"></a>
-  <a href="https://www.linkedin.com/in/mofokengtt21"><img src="/images/linked-in.png" alt="LinkedIn" width="40px"></a>
+  <a href="https://wa.me/27716472363" target="_blank">
+    <img src="/images/whatsapp.png" alt="WhatsApp" width="40px">
+  <a href="https://www.linkedin.com/in/fentselebese-profile"><img src="/images/linkedin.png" alt="LinkedIn" width="40px"></a>
 </div>
