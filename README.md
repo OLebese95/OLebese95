@@ -7,12 +7,6 @@
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </div>
 
-<div align="center">
-</b> 
-
-![Profile Views](https://komarev.com/ghpvc/?username=OLebese95&color=blue)
-<br/>
-
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 
