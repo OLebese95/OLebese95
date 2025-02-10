@@ -8,11 +8,6 @@
 
 </b> <br/>
 
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OLebese95&theme=vue&hide_border=true&card_width=496" alt="GitHub Streak" /> <br/><br/>
-  </p>
-</div>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OLebese95&show_icons=true&theme=vue&hide_border=true" alt="GitHub Stats"/>
 </p>
