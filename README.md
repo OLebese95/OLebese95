@@ -4,10 +4,8 @@
 </h3>
 
 ![Ofentse Image](/images/Profile.jpg)
-
-<div>
 ![Profile Views](https://komarev.com/ghpvc/?username=OLebese95&color=blue)
-</div>
+
 </b> <br/>
 
   <p align="center">
