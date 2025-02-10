@@ -9,12 +9,13 @@
 </b> <br/>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OLebese95&layout=compact&theme=vue&hide_border=true" alt="Most Used Languages"/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OLebese95&show_icons=true&theme=vue&hide_border=true" alt="GitHub Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OLebese95&layout=compact&theme=vue&hide_border=true" alt="Most Used Languages"/>
-</p>
+
 
 <div align="center">
   <!-- Web Development Badges -->
