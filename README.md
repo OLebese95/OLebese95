@@ -3,10 +3,10 @@
 </h3>
 
 <div align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="margin-bottom: 10em;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </div>
 
-<div align="center">
+<div align="center" style="padding: 10em;>
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
