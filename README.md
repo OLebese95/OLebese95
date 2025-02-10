@@ -9,12 +9,12 @@
   <a href="https://github.com/MofokengTT21/livewire-chat"><img src="https://github.com/MofokengTT21/livewire-chat/blob/main/screenshots/laptop.png?raw=true"  width="365"></a><br><br>
   <a href="https://github.com/MofokengTT21?tab=repositories"><img src="/images/view-more.png" width="90"></a>
 </div>
-<div>
+<div> -->
 </b> <br/>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=MofokengTT21&theme=vue&hide_border=true&card_width=496" alt="GitHub Streak" alt="GitHub Stats" /> <br/><br/>
-  </p>
-</div> -->
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=OLebese95&theme=radical&hide_border=false&background=0D1117&stroke=FFFFFF&ring=FF8C00&fire=FF4500&currStreakLabel=FFD700&card_width=500" alt="GitHub Streak" />
+</p>
+</div>
 
 <div align="center">
   <!-- Web Development Badges -->
